@@ -24,4 +24,4 @@
 > <DOCTYPE html>, <html>, <head>, <title>, <body>의 네가지 기본 구조를 가지고 있다.
 
 *
-수정 출돌
+수정 충돌
